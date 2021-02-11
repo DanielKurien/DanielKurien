@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hey there, I'm Daniel. Welcome to my Github! 👋
 
-<!--
-**DanielKurien/DanielKurien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently I'm a High School, interested in everything code-related 👨‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning React and NodeJS
+- 👯 I’m looking to collaborate on web applications that use the MERN stack
+
+
+
+<table>
+  <tr>
+  <td width="50%">
+      <div align="center">
+       <!--START_SECTION:activity--> 
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img src=https://github-readme-stats.danielkurien.vercel.app/api?username=DanielKurien&show_icons=true&bg_color/>
+        <img src="https://github-readme-stats.danielkurien.vercel.app/api/top-langs/?username=DanielKurien" alt="GitHub Language Stats" />
+      </div>
+    </td>
+    
+  </tr>
+</table> 
+
