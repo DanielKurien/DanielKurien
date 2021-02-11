@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on web applications that use the MERN stack
 
 
+<!--START_SECTION:activity-->
 
 <table>
   <tr>
