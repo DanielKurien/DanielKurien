@@ -12,11 +12,11 @@
   <tr>
   <td width="50%">
       <div align="center">
+            <img src=https://github-readme-stats.danielkurien.vercel.app/api?username=DanielKurien&show_icons=true&bg_color/>
       </div>
     </td>
     <td width="50%">
       <div align="center">
-        <img src=https://github-readme-stats.danielkurien.vercel.app/api?username=DanielKurien&show_icons=true&bg_color/>
         <img src="https://github-readme-stats.danielkurien.vercel.app/api/top-langs/?username=DanielKurien" alt="GitHub Language Stats" />
       </div>
     </td>
