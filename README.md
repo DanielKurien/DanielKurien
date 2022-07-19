@@ -1,8 +1,5 @@
 ## Hey there, I'm Daniel. Welcome to my Github! 👋
 
-### Currently I'm a High School, interested in everything code-related 👨‍💻
-
-
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning React and NodeJS
 - 👯 I’m looking to collaborate on web applications that use the MERN stack
